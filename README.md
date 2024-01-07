@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jonathan Castro</h1>
 <h3 align="center">A Brazilian passionate Data Engineer developer living in Portugal</h3>
 
-- 🔭 I’m currently working at **Kantar(Allocated) as consultant by Bee Engineering**
+- 🔭 I’m currently working at **Kantar**
 
 - 🌱 I’m currently learning **Spark, Streams, Machine Learning**
 
